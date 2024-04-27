@@ -16,14 +16,6 @@ In this part, teams chose a dataset for classification with a minimum of 200 exa
 
 We chose the dataset `credit_data.csv` (https://www.kaggle.com/datasets/laotse/credit-risk-dataset) which contains columns that simulate data from credit agencies. The attributes are the `income`, `age`, `loan` columns and the class is the `default` column, classifying those who pay loans with `1` and those who don't pay with `0`.
 
-## File Structure
-
-The repository contains the following items:
-
-- **Slides:** 
-- **Report:** 
-- **src:**
-
 ## Team
 
 - [João Victor Ferreira](https://github.com/jvictorferreira3301)
